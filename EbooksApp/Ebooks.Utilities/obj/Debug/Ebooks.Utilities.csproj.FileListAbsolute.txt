@@ -1,0 +1,4 @@
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Utilities\bin\Debug\Ebooks.Utilities.dll
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Utilities\bin\Debug\Ebooks.Utilities.pdb
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Utilities\obj\Debug\Ebooks.Utilities.dll
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Utilities\obj\Debug\Ebooks.Utilities.pdb

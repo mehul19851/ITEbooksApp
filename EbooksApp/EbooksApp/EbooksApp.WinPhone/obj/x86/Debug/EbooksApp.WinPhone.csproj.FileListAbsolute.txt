@@ -1,0 +1,6 @@
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp\EbooksApp.WinPhone\obj\x86\Debug\EbooksApp.WinPhone.csprojResolveAssemblyReference.cache
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp\EbooksApp.WinPhone\obj\x86\Debug\App.g.cs
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp\EbooksApp.WinPhone\obj\x86\Debug\MainPage.g.cs
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp\EbooksApp.WinPhone\obj\x86\Debug\EbooksApp.WinPhone.g.resources
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp\EbooksApp.WinPhone\obj\x86\Debug\EbooksApp.WinPhone.Resources.AppResources.resources
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp\EbooksApp.WinPhone\obj\x86\Debug\EbooksApp.WinPhone.csproj.GenerateResource.Cache

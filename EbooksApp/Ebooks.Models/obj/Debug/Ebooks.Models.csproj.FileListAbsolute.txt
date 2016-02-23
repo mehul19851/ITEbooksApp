@@ -1,0 +1,7 @@
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Models\bin\Debug\Ebooks.Models.dll
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Models\bin\Debug\Ebooks.Models.pdb
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Models\obj\Debug\Ebooks.Models.dll
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Models\obj\Debug\Ebooks.Models.pdb
+C:\Users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Models\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Models\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\Ebooks.Models\bin\Debug\Microsoft.Practices.ServiceLocation.xml

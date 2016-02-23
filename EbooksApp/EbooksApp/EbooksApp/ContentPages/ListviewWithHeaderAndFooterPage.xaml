@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EbooksApp.ContentPages.ListviewWithHeaderAndFooterPage">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+<ListView x:Name="listView"> <!-- this object will be the bindingcontext -->
+    <ListView.HeaderTemplate >
+      <DataTemplate>
+        <StackLayout Orientation="Horizontal">
+          <Label Text="--"/>
+          <Label Text="test heading...."/> <!-- use the object in Header as the binding source -->
+          <Label Text="--"/>
+        </StackLayout>
+      </DataTemplate>
+    </ListView.HeaderTemplate>
+    <!--<ListView.ItemTemplate>
+        <DataTemplate>
+            <TextCell Text="{Binding Name}" Detail="{Binding Description}"></TextCell>
+        </DataTemplate>
+    </ListView.ItemTemplate>-->
+</ListView>
+</ContentPage>

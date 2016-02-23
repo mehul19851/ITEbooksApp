@@ -1,0 +1,5 @@
+C:\Users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp.ProgressReporting.Common\bin\Debug\EbooksApp.ProgressReporting.Common.dll
+C:\Users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp.ProgressReporting.Common\bin\Debug\EbooksApp.ProgressReporting.Common.pdb
+C:\Users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp.ProgressReporting.Common\obj\Debug\EbooksApp.ProgressReporting.Common.dll
+C:\Users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp.ProgressReporting.Common\obj\Debug\EbooksApp.ProgressReporting.Common.pdb
+C:\Users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp.ProgressReporting.Common\obj\Debug\EbooksApp.ProgressReporting.Common.csprojResolveAssemblyReference.cache

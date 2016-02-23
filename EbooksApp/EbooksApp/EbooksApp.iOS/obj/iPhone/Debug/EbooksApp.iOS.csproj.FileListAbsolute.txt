@@ -1,0 +1,2 @@
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp\EbooksApp.iOS\obj\iPhone\Debug\optimized\
+c:\users\mbhadricha\documents\visual studio 2013\Projects\EbooksApp\EbooksApp\EbooksApp.iOS\obj\iPhone\Debug\EbooksApp.iOS.csprojResolveAssemblyReference.cache
